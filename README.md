@@ -3,9 +3,10 @@
 <h2> Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Pirate Simulator Game]()
+  - Pirate Simulator Game
 - <b>Python</b>
-  - [Un-named Visual Novel]()
+  - Un-named Visual Novel
+    - No playable version currently 
 
 <h2> Connect with me:</h2>
 
