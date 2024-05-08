@@ -2,11 +2,14 @@
 
 <h2> Software Development Projects:</h2>
 
+<i>Individual:</i>
 - <b>Java</b>
   - Pirate Simulator Game
 - <b>Python</b>
   - Agency of Souls (Visual Novel)
-    - No playable version currently 
+    - No playable version currently
+
+<i>Team:</i>
 
 
 <h3 align="left">Languages and Tools:</h3>
