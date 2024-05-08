@@ -7,7 +7,7 @@
   - Pirate Simulator Game
 - <b>Python</b>
   - Agency of Souls (Visual Novel)
-    - No playable version currently
+    - Concept Art & Story Development Phase
 
 <i>Team:</i>
 - Coming Soon
