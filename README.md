@@ -5,7 +5,7 @@
 <i>Individual:</i>
 - <b>Java</b>
   - Pirate Simulator Game
-    - <p align="left"> <a href="https://www.arduino.cc/" > Version 1.0 (Text Only)/>
+    - <p <a href="https://www.arduino.cc/"> Version 1.0 (Text Only)
 - <b>Python</b>
   - Agency of Souls (Visual Novel)
     - Concept Art & Story Development Phase
