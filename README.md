@@ -5,7 +5,7 @@
 - <b>Java</b>
   - Pirate Simulator Game
 - <b>Python</b>
-  - Un-named Visual Novel
+  - Agency of Souls (Visual Novel)
     - No playable version currently 
 
 
