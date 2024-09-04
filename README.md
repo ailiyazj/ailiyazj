@@ -6,9 +6,6 @@
 - <b>Java</b>
   - Pirate Simulator Game
     - [Version 1.0 (Text Only)](https://github.com/ailiyazj/pirate-life-simulator/blob/main/plsSourceCode.java) 
-- <b>Python</b>
-  - Agency of Souls (Visual Novel)
-    - Concept Art & Story Development Phase
 
 <i>Team:</i>
 - Coming Soon
