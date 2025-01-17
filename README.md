@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ailiya! <br/><a><i>Programmer</a></i>, <a><i>Engineering Student</a></i>
+<h1>Hi, I'm Ailiya! <br/><a><i> Computer Engineering Student</a></i>
 
 <h2> Software Development Projects:</h2>
 
